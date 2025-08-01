@@ -1,5 +1,3 @@
-# Spinning-up-an-SFTP-Server-
-
 # Spinning-up-an-SFTP-Server-in-AWS
 
 Steps to spin up and base level, free tier SFTP server in AWS:
